@@ -1,1 +1,0 @@
-print("Life is too short you need Python")
